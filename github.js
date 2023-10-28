@@ -5,7 +5,7 @@ class Github{
     }
 
     async getGithubData(username){
-        let token = "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";
+        let token = "YOUR TOKEN";
 
         const headers = {
             Authorization: `token ${token}`,
