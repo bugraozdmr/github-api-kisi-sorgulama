@@ -1,5 +1,5 @@
 //! github api nasıl kullanılır döküman
-// const token = "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";
+// const token = "YOUR TOKEN";
 // const username = "bugraozdmr";
 
 // const url = `https://api.github.com/users/${username}`;
